@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Purnachandrarao</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Python+Developer;Frontend+Web+Developer;MySQL+Enthusiast;Problem+Solver;Passionate+about+Generative+AI" />
+</h3>
+
 # 💫 About Me:
 <br>💻 Aspiring Software Developer with strong foundations in Python and Object-Oriented Programming (OOP)<br>🌐 Skilled in Frontend Web Development (HTML, CSS, JavaScript) with focus on responsive design<br>🛢️ Experience working with MySQL for efficient database management<br>🧠 Strong problem-solving skills with a passion for building real-world solutions<br>🔥 Self-motivated learner, consistently improving and adapting to new technologies<br>🤖 Enthusiastic about Generative AI and its impact on the future of engineering<br>📌 Built projects like Responsive Food Mood Restaurant Website with modern UI/UX
 
